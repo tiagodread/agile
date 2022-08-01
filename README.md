@@ -1,4 +1,4 @@
-# Agile best practices
+# Agile best practices from trenches
 
 Working as a Software Quality Engineer I've worked in many different teams setup in different levels
 of maturity. Thinking about QA process and agile software development I created this repository to document
