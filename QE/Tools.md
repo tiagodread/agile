@@ -17,6 +17,7 @@
 - [Fun Retrospective](https://www.funretrospectives.com/pt/)
 - [Investorpedia](https://www.investopedia.com/)
 - [Bitcoin charts](https://charts.bitbo.io/)
+- [Kanbangame](https://tools.flowfast.io/featureban)
 
 
 ## Future Tools
