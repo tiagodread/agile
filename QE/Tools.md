@@ -19,6 +19,7 @@
 - [Bitcoin charts](https://charts.bitbo.io/)
 - [Kanbangame](https://tools.flowfast.io/featureban)
 - [Appfollow updates](https://appfollow.io/)
+- [mocktail](https://pub.dev/packages/mocktail)
 
 
 ## Future Tools
