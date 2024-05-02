@@ -18,6 +18,7 @@
 - [Investorpedia](https://www.investopedia.com/)
 - [Bitcoin charts](https://charts.bitbo.io/)
 - [Kanbangame](https://tools.flowfast.io/featureban)
+- [Appfollow updates](https://appfollow.io/)
 
 
 ## Future Tools
