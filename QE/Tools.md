@@ -20,6 +20,7 @@
 - [Kanbangame](https://tools.flowfast.io/featureban)
 - [Appfollow updates](https://appfollow.io/)
 - [mocktail](https://pub.dev/packages/mocktail)
+- [DD mobile-app-application-monitoring](https://www.datadoghq.com/monitoring/mobile-application-monitoring/)
 
 
 ## Future Tools
