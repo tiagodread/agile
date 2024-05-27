@@ -22,6 +22,7 @@
 - [mocktail](https://pub.dev/packages/mocktail)
 - [DD mobile-app-application-monitoring](https://www.datadoghq.com/monitoring/mobile-application-monitoring/)
 - [Bitcoin tools](https://btc.bitaps.com/tools)
+- [Decision table maker](https://rendersnail.com/tools/decision-table-online/)
 
 
 ## Future Tools
